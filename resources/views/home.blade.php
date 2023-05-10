@@ -91,7 +91,7 @@
         <div class="carousel-inner" role="listbox">
 
           <!-- Slide 1 -->
-          <div class="carousel-item active" style="padding-top:80px;">
+          <div class="carousel-item active" style="padding-top:0px;">
             <img src="https://aseanyouthforum.org/wp-content/uploads/2019/03/headway-1120645-unsplash.jpg" alt="" style="max-width:100%">
             <div class="carousel-container">
               <div class="carousel-content">

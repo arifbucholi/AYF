@@ -71,7 +71,8 @@ h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  background: rgba(0, 0, 0, 0.75);
+  /* background: rgba(211, 211, 211, 0.75); */
+  background: #060448;
   transition: all 0.5s;
   z-index: 997;
   height: 80px;
@@ -406,7 +407,7 @@ h6 {
 #hero .carousel-item::before {
   content: "";
   /* background-color: rgba(0, 0, 0, 0.5); */
-  background-color: rgba(0, 0, 0, 0);
+  background-color: rgba(0, 0, 0, 0.4);
   position: absolute;
   top: 0;
   right: 0;
